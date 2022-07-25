@@ -1,5 +1,5 @@
 ## Moin! 
-Boot camp participant @ [neuefische GmbH](https://www.neuefische.de/) done at the end of October 2022.
+Boot camp participant @ [neuefische GmbH](https://www.neuefische.de/). Done at the end of October 2022.
 
 Open to job offers for the time afterwards. Contact at [:e-mail:](mailto:ostermann-felix@web.de?subject=[GitHub]%20Source%20Han%20Sans)
 
