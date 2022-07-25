@@ -1,4 +1,4 @@
 ## Moin! 
 Boot camp participant @ https://github.com/neuefische
 
-[![ostermann-felix's github stats](https://github-readme-stats.vercel.app/api?username=ostermann-felix)]
+[![ostermann-felix's github stats](https://github-readme-stats.vercel.app/api?username=ostermann-felix)](https://github.com/anuraghazra/github-readme-stats)
