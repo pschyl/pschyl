@@ -1,8 +1,8 @@
 ## Moin! 
-<a href="mailto:ostermann-felix@web.de?subject=[GitHub]%20Source%20Han%20Sans"><img align="right" src="https://img.icons8.com/fluency/344/mail.png" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/felixostermann/" target="blank"><img align="right" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="30" /></a>
+<a href="mailto:ostermann-felix@web.de?subject=[GitHub]%20Source%20Han%20Sans"><img align="right" src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/envelope-square-512.png height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/felixostermann/" target="blank"><img align="right" src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/linkedin-square-512.png" /></a>
 <a href="https://twitter.com/thebearfelix">
-  <img align="right" height="30" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
+  <img align="right" height="30" width="35px" src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/twitter-square-512.png" /></a>
 
 Boot camp participant @ [neuefische GmbH](https://www.neuefische.de/). Done at the end of October 2022. 
 
