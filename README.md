@@ -4,7 +4,7 @@
 <a href="https://twitter.com/thebearfelix">
   <img align="right" src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/twitter-square-512.png" height="30" width="30"/></a>
 
-Boot camp trainee @ [neuefische GmbH](https://www.neuefische.de/). Done at the end of October 2022. 
+Bootcamp trainee @ [neuefische GmbH](https://www.neuefische.de/). Done at the end of October 2022. 
 
 Open to job offers for the time afterwards.
 
