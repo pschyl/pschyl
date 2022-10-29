@@ -4,7 +4,7 @@
 <a href="https://twitter.com/thebearfelix">
   <img align="right" src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/twitter-square-512.png" height="30" width="30"/></a>
 
-Junior Frontend Developer curious for new tech- and coding possibilities. React/ NextJS and Javascript is the way to go. Highly interested in Python. My goal is to develop into an experienced Full Stack Developer with focus on the MERN tech stack.
+Junior Software Developer curious for new tech- and coding possibilities. React/ NextJS and Javascript is the way to go. Highly interested in Python. My goal is to develop into an experienced Full Stack Developer with focus on the MERN tech stack.
 Trained @ [neuefische GmbH](https://www.neuefische.de/). Open for job offers.
 
 [![ostermann-felix's github stats](https://github-readme-stats.vercel.app/api?username=ostermann-felix&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ostermann-felix&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
