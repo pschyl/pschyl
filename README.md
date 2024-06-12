@@ -1,4 +1,4 @@
-Software Developer.
+Software Developer from Cologne.
 
 Trained @[CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 @[neuefische GmbH](https://www.neuefische.de/)
