@@ -1,8 +1,8 @@
 Software Developer.
 
-<p>Trained @[CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+Trained @[CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 @[neuefische GmbH](https://www.neuefische.de/)
-@[Codecademy](https://www.codecademy.com/)</p>
+@[Codecademy](https://www.codecademy.com/)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pschyl&show_icons=true&locale=en&layout=compact" alt="pschylUser" /></p>
 
