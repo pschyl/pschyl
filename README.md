@@ -1,7 +1,7 @@
 Software Developer from Cologne.
 
 Trained @[CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science)
-@[neuefische GmbH]([https://www.neuefische.de/](https://www.neuefische.de/bootcamp/java-development)
+@[neuefische GmbH](https://www.neuefische.de/bootcamp/java-development)
 @[Codecademy](https://www.codecademy.com/)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pschyl&show_icons=true&locale=en&layout=compact" alt="pschylUser" /></p>
